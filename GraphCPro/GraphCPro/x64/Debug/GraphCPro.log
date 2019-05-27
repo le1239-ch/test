@@ -1,0 +1,13 @@
+﻿  Graph.cpp
+  GraphCPro.cpp
+  Tourism.cpp
+D:\BaiduNetdiskDownload\GraphCPro\GraphCPro\Tourism.cpp(44): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+D:\BaiduNetdiskDownload\GraphCPro\GraphCPro\Tourism.cpp(47): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+D:\BaiduNetdiskDownload\GraphCPro\GraphCPro\Tourism.cpp(85): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+D:\BaiduNetdiskDownload\GraphCPro\GraphCPro\Tourism.cpp(92): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+  正在生成代码...
+  GraphCPro.vcxproj -> D:\BaiduNetdiskDownload\GraphCPro\x64\Debug\GraphCPro.exe
